@@ -1,0 +1,4 @@
+[0712/171649.739:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
+[0712/171649.845:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
+[0712/171702.365:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
+[0712/171702.470:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
